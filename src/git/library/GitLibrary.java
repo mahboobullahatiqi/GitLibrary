@@ -9,6 +9,6 @@ public static void main(String[] args) {
 	
 	int d =10;
 	int a = 20;
-	system.out.println(d+a);
+	System.out.println(d+a);
 }
 }
